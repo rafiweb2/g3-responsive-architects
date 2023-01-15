@@ -215,7 +215,7 @@ nav li {
 .box__section {
     display: flex;
     justify-content: center;
-    gap: 105px;
+    gap: 115px;
     padding-top: 100px;
     padding-bottom: 100px;
 }
@@ -246,14 +246,20 @@ nav li {
     font-size: 16px;
     color: #727272;
     padding-top: 25px;
-    padding-bottom: 50px;
 }
 
 /* LOGO__STYLE__VAIA */
 
+.logo{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 240px;
+    padding-top: 50px;
+}
 
-
-
+.logo img{
+    filter: grayscale();
+}
 
 
 /* FOOTER__VAIA */
