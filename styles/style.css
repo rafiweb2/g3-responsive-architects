@@ -127,6 +127,7 @@ nav li {
     grid-gap: 25px;
 }
 
+
 .quick {
     color: var(--third-color);
 }
@@ -233,7 +234,7 @@ nav li {
 .sponsor {
     width: 542px;
     height: 129px;
-    padding: 0 690px;
+    padding-left: 750px;
     padding-top: 100px;
 }
 
