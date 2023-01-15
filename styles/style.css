@@ -1,0 +1,8 @@
+/* FONT-LINK */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@500&display=swap');
+
+:root{
+    --primary-font: 'Work Sans', sans-serif;
+    --primary-color: #FF900E;
+    --primary-background: #ff900e1a;
+}
